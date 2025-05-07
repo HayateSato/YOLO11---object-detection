@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "frixion"
+    },
+    {
+      "id": 1,
+      "name": "htw"
+    },
+    {
+      "id": 2,
+      "name": "muji"
+    },
+    {
+      "id": 3,
+      "name": "round_stic"
+    },
+    {
+      "id": 4,
+      "name": "starpie"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
